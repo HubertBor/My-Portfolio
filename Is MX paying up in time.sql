@@ -87,7 +87,5 @@ having
 
 
 
-select * from test.balances_31032017_V2 where  contract_id = '2645457'
-select * from t_trn_loan_valuation where deal_id like '%2645457'  and valuation_type ='OUTSTANDING COSTS' 
-select * from test.charge_31032017  where contract_id = '2645457'
+
 
